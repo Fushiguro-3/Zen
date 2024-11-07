@@ -1,2 +1,2 @@
 # Zen
-This is my Profilr
+This is my Profile
